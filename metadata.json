@@ -1,0 +1,6 @@
+{
+  "name": "GharJagga Nepal - Land & Plot Marketplace",
+  "description": "Nepal's premier real estate listing and booking platform, featuring automated commission calculations, legal verifications, and professional seller tier promotions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
